@@ -1,0 +1,26 @@
+# Node.js dependencies
+/node_modules/
+
+# dotenv environment variables file
+#.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional: macOS system files
+.DS_Store
+
+# Optional: Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Optional: nodemon debug files
+nodemon-debug.log
